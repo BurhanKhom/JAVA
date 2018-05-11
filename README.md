@@ -1,2 +1,2 @@
 # JAVA
-Java Programs
+Java Lab Programs
